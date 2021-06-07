@@ -1,4 +1,11 @@
-# espanso-package-example
-An example on how to create an espanso package.
+# English Greetings
 
-For more information, read the [documentation](https://espanso.org/docs/)
+A few greeting snippets I use in [Espanso.org](https://espanso.org/). It's the thought that counts, not the typing ;-)
+
+## How to install
+
+See [Espansos' install "from a repo" docs](https://espanso.org/docs/packages/#from-a-repository).
+
+## How to use
+
+See the [latest version's `package.yml`](https://github.com/katrinleinweber/espanso-greetings-english/find/master) for details.
