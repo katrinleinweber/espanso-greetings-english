@@ -12,16 +12,16 @@ matches:
     replace: "Dear Madam or Sir,\n\n\n"
 
   - trigger: ",kr"
-    replace: "Kind regards$|$,"
+    replace: "Kind regards, "
 
-  - trigger: "&gw"
-    replace: " & have a good week"
+  - trigger: "!gw"
+    replace: "and have a good week!"
 
-  - trigger: "&we"
-    replace: " & have a nice weekend"
+  - trigger: "!we"
+    replace: "and have a nice weekend!"
 
-  - trigger: "&rw"
-    replace: " & have a nice rest of the week"
+  - trigger: "!rw"
+    replace: "and have a nice rest of the week!"
 
   - trigger: ",tk"
     replace: "Thank you & kind regards,"
