@@ -17,6 +17,9 @@ matches:
   - trigger: "!gw"
     replace: "and have a good week!"
 
+  - trigger: "!sw"
+    replace: "and have a good start into the new week!"
+
   - trigger: "!we"
     replace: "and have a nice weekend!"
 
