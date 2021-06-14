@@ -12,7 +12,7 @@ matches:
     replace: "Dear Madam or Sir,\n\n\n"
 
   - trigger: ",kr"
-    replace: "Kind regards, "
+    replace: "Kind regards,"
 
   - trigger: "!gw"
     replace: "and have a good week!"
