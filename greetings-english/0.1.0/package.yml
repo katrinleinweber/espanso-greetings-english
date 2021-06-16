@@ -6,7 +6,10 @@ parent: default
 matches:
 
   - trigger: ",dt"
-    replace: "Dear %clipboard team,\n\n\n"
+    replace: "Dear {{clipboard}} team,\n\n\n"
+    vars:
+      - name: "clipboard"
+        type: "clipboard"
 
   - trigger: ",dms"
     replace: "Dear Madam or Sir,\n\n\n"
