@@ -44,3 +44,14 @@ matches:
   - trigger: "&tm"
     replace: "& thanks for merging "
 
+  - trigger: "&he"
+    replace: "& happy Easter!"
+
+  - trigger: "&mc"
+    replace: "& have a very merry Christmas!"
+
+  - trigger: "&ny"
+    replace: "& have a happy New Year!"
+
+  - trigger: "&hh"
+    replace: "& happy holidays!"

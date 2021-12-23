@@ -50,3 +50,7 @@ Trigger | Espansion
 `:yw` | `You're welcome $\|$:-)`
 `&tf` | `& thanks for the feedback `
 `&tm` | `& thanks for merging `
+`&he` | `& happy Easter!`
+`&mc` | `& have a very merry Christmas!`
+`&ny` | `& have a happy New Year!`
+`&hh` | `& happy holidays!`
