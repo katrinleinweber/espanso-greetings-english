@@ -9,7 +9,7 @@ but this works:
 
 ```shell
 # espanso uninstall greetings-english # In case you want to upgrade
-espanso install greetings-english --external  \
+espanso install greetings-english --external --git  \
     https://github.com/katrinleinweber/espanso-greetings-english
 ```
 
